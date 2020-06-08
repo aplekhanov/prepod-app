@@ -13,4 +13,4 @@ Boom! The current slide is on their screens now. When you change pages, all othe
 
 Imagine everyone in the room is watching your presentation in front of them, holding the slide in their hands – there is no need for glasses anymore or shutting out the lights.
 
-[<img src="https://aplekhanov.github.io/prepod-app/assets/appstore.png" alt="Download on the App Store">](https://apps.apple.com/us/app/prepod-broadcast-pdf-slides/id1201133227?uo=4)
+[<img src="https://aplekhanov.github.io/prepod-app/assets/appstore.png" width=220 height=75 alt="Download on the App Store">](https://apps.apple.com/us/app/prepod-broadcast-pdf-slides/id1201133227?uo=4)
