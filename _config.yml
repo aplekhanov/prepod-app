@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Focus on important
-    description                           : Clean and simple to use interface designed for one-hand operation. Just tap a button to get started and focus on your baby.
-    fontawesome_icon_name                 : eye
+  - title                                 : Step One
+    description                           : Select and open a PDF on your device.
+    fontawesome_icon_name                 : file-pdf
     
-  - title                                 : Complete feeding history
-    description                           : Nappy Pin keeps all your baby's feed times in clear journal. It shows how long you have fed your baby, including time between feeds.
-    fontawesome_icon_name                 : list
+  - title                                 : Step Two
+    description                           : Show others the QR-code that they can scan and join to your presentation from any web browser.
+    fontawesome_icon_name                 : qrcode
 
-  - title                                 : Respectful of Privacy
-    description                           : Personalize the app to your baby by adding a picture, baby’s name, and date of birth. No ads, no registrations, and no login screens. All your data is local and private. Just you, your baby, and a nice little app.
-    fontawesome_icon_name                 : shield-alt
+  - title                                 : Boom!
+    description                           : The current slide is on their screens now. When you change pages, all other connected devices instantly do the same.
+    fontawesome_icon_name                 : magic
 
 
 
